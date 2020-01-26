@@ -11,6 +11,8 @@ function App() {
           Hey there! I'm <code>KP</code>.
           <br />
           I'm a full-stack developer at OYO.
+          <br />
+          Diggi is my friend.
           <br /> 
           Find out my recent work here.
         </p>
