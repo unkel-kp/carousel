@@ -9,8 +9,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hey there! I'm <code>KP</code>.
+          <br />
+          I'm a full-stack developer at OYO.
           <br /> 
-          Find out my work here.
+          Find out my recent work here.
         </p>
         <a
           className="App-link"
